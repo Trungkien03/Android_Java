@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomNumber</string>
+    <string name="generate">Generate</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="result">Result:</string>
+</resources>
